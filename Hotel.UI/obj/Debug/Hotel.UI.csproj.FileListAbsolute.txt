@@ -1,0 +1,4 @@
+C:\Users\Martín\Documents\Hotel\Hotel.UI\bin\Hotel.UI.dll
+C:\Users\Martín\Documents\Hotel\Hotel.UI\bin\Hotel.UI.pdb
+C:\Users\Martín\Documents\Hotel\Hotel.UI\obj\Debug\Hotel.UI.dll
+C:\Users\Martín\Documents\Hotel\Hotel.UI\obj\Debug\Hotel.UI.pdb
